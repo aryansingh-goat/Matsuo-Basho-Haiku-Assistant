@@ -285,6 +285,17 @@ This makes it a good starting point for students, hobbyists, and researchers int
 - The tradition of haiku poetry and the works of Matsuo Bashō
 
 ---
+## Results
+
+Although the model contains only 135M parameters, it successfully learned:
+
+- Haiku-like structure
+- Nature-oriented imagery
+- Short-form poetic generation
+- Theme-conditioned outputs
+
+<h3><em>"The model is not intended to perfectly replicate traditional 5-7-5 haiku, but rather to explore how much poetic behavior can be learned through lightweight fine-tuning."</em></h3>
+---
 
 ## 📜 License
 
